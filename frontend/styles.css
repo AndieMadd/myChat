@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-color: maroon;
+    font-family: "Consolas";
+    text-align: center;
+}
+input{
+    width: 50%;
+}
+textarea {
+    resize: none;
+    width: 50%;
+}
+button {
+    width: 50%;
+    height: 40px;
+    background-color: #400000;
+    font-family: "Consolas";
+    color: white;
+}
+
+img {
+    width: 10%;
+    height: auto;
+}
+
+.allmessages {
+    text-align: left;
+    margin-left: 25%;
+}
